@@ -1,3 +1,2 @@
 # hello-world
-Second Repo Test
-Checking my learned skills
+Second check did not go as planned
